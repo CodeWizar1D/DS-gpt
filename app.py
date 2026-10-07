@@ -54,4 +54,4 @@ st.markdown(
 
 # Streamlit >= 1.56 supports local HTML files directly. The HTML file contains
 # the complete Vite single-file React build, including its CSS and JavaScript.
-st.iframe(FRONTEND, height=900)
+st.iframe(FRONTEND, height=1800)
